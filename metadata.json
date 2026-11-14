@@ -1,0 +1,6 @@
+{
+  "name": "Terraframe",
+  "description": "Global travel photography atlas, high-resolution portfolio curation, EXIF/XMP metadata export, and multi-currency print & license marketplace with Indian Rupee (INR) payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
